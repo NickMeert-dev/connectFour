@@ -1,0 +1,8 @@
+theGame\gameFlow\Game.class
+theGame\Main.class
+theGame\players\InitializePlayers.class
+theGame\Board.class
+theGame\players\Player2.class
+theGame\players\Player.class
+theGame\gameFlow\WinnerCheck.class
+theGame\players\Player1.class
