@@ -1,4 +1,4 @@
-package theGame.players;
+package com.switchfully.fodfin.connectFour.players;
 
 import java.util.Scanner;
 
