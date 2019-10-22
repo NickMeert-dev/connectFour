@@ -1,7 +1,7 @@
 package com.switchfully.fodfin.connectFour.players;
 
-import com.switchfully.fodfin.connectFour.gameFlow.WinnerCheck;
 import com.switchfully.fodfin.connectFour.Board;
+import com.switchfully.fodfin.connectFour.gameFlow.WinnerCheck;
 
 public abstract class Player {
     private String name;

@@ -18,7 +18,7 @@ public class Board {
         return theBoard;
     }
 
-    public String[][] createEmptyBoard() {
+    private String[][] createEmptyBoard() {
 
         int xAxis = 7;
         String[][] squaredArray = new String[xAxis][yAxis + 1];
@@ -30,7 +30,7 @@ public class Board {
 
     public void printOutTheBoard(String[][] squaredArray) {
         System.out.println("\n");
-        for (int i = yAxis; i > -1 ; i--) {
+        for (int i = yAxis; i > -1; i--) {
             System.out.println(Arrays.toString(squaredArray[i]));
         }
     }

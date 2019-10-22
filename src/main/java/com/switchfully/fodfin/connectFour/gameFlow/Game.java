@@ -9,8 +9,8 @@ import com.switchfully.fodfin.connectFour.players.Player2;
 import java.util.Scanner;
 
 public class Game {
-    private Player1 player1=null;
-    private Player2 player2=null;
+    private Player1 player1 = null;
+    private Player2 player2 = null;
 
 
     public void playTheGame() {

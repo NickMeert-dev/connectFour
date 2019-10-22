@@ -5,7 +5,7 @@ public class Player2 extends Player {
     private static final String symbol = "[o]";
 
 
-    public Player2(String name) {
+    Player2(String name) {
         super(name, symbol);
     }
 }
