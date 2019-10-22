@@ -9,7 +9,12 @@ import theGame.players.Player2;
 import java.util.Scanner;
 
 public class Game {
+    private Player1 player1=null;
+    private Player2 player2=null;
+
+
     public void playTheGame() {
+
         Board game = new Board();
 
         Player player1 = new InitializePlayers().assignPlayer1Name();
@@ -31,4 +36,11 @@ public class Game {
 
     }
 
+    public Player1 getPlayer1() {
+        return player1;
+    }
+
+    public Player2 getPlayer2() {
+        return player2;
+    }
 }
