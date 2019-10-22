@@ -1,3 +1,3 @@
 # Project exclude paths
-C:\_Projects\switchfully\connectFour\.idea
-C:\_Projects\switchfully\connectFour\connectFour.iml
+.idea
+connectFour.iml
