@@ -1,6 +1,4 @@
-package theGame.players;
-
-import theGame.players.Player;
+package com.switchfully.fodfin.connectFour.players;
 
 public class Player1 extends Player {
     private static final String symbol = "[x]";

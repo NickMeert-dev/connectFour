@@ -1,10 +1,10 @@
-package theGame.gameFlow;
+package com.switchfully.fodfin.connectFour.gameFlow;
 
-import theGame.Board;
-import theGame.players.InitializePlayers;
-import theGame.players.Player;
-import theGame.players.Player1;
-import theGame.players.Player2;
+import com.switchfully.fodfin.connectFour.Board;
+import com.switchfully.fodfin.connectFour.players.InitializePlayers;
+import com.switchfully.fodfin.connectFour.players.Player;
+import com.switchfully.fodfin.connectFour.players.Player1;
+import com.switchfully.fodfin.connectFour.players.Player2;
 
 import java.util.Scanner;
 

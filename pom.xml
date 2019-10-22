@@ -21,7 +21,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>theGame.Main</mainClass>
+                            <mainClass>com.switchfully.fodfin.connectFour.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

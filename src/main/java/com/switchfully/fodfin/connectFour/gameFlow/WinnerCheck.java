@@ -1,6 +1,6 @@
-package theGame.gameFlow;
+package com.switchfully.fodfin.connectFour.gameFlow;
 
-import theGame.Board;
+import com.switchfully.fodfin.connectFour.Board;
 
 public class WinnerCheck {
     public void checkIfVictorious(Board board, int horizontal, int vertical, String name, String symbol) {

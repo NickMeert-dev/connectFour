@@ -1,6 +1,6 @@
-package theGame;
+package com.switchfully.fodfin.connectFour;
 
-import theGame.players.Player;
+import com.switchfully.fodfin.connectFour.players.Player;
 
 import java.util.Arrays;
 
